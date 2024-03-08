@@ -14,6 +14,6 @@ void app_main() {
     // ignorar 
     printf("Prueba motores con esP\n");
     //kp=10
-    
+    printf("Hola Mundo Mecatronico\n");
     
 }
