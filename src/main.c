@@ -10,4 +10,7 @@ void app_main() {
     printf("xxx\n");
     printf("tmr wee\n");
     printf("Crysthian\n");
+    printf("HMI incoming data \n");
+    // ignorar 
+    
 }
