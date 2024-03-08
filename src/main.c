@@ -12,5 +12,8 @@ void app_main() {
     printf("Crysthian\n");
     printf("HMI incoming data \n");
     // ignorar 
+    printf("Prueba motores con esP\n");
+    //kp=10
+    
     
 }
